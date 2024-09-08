@@ -3,7 +3,9 @@ import './Video.css'
 
 function Video() {
   return (
-    <div></div>
+    <div className='play-container'>
+      
+    </div>
   )
 }
 
