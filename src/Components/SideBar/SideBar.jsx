@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 import home from "../../assets/home.png"
 import game_icon from '../../assets/game_icon.png'
 import automobiles from '../../assets/automobiles.png'
