@@ -9,7 +9,7 @@ import user_profile from '../../assets/user_profile.jpg'
 
 function PlayVideo() {
   return (
-    <div>
+    <div className='play-video'>
         <video src={video1} controls autoPlay muted></video>
         <h3>Best YouTube Channel to Learn Web development</h3>
         <div className="play-video-info">
